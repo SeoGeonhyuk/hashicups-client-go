@@ -41,3 +41,11 @@ type Ingredient struct {
 	Quantity int    `json:"quantity"`
 	Unit     string `json:"unit"`
 }
+
+// Game -
+type Game struct {
+	ID        int     `json:"ID"`
+	Name      string  `json:"Name"`
+	StarPoint float32 `json:"StarPoint"`
+	PlayerNum int     `json:"PlayerNum"`
+}
