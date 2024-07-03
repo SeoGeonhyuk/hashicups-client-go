@@ -1,3 +1,3 @@
-module github.com/hashicorp-demoapp/hashicups-client-go
+module github.com/SeoGeonhyuk/hashicups-client-go
 
-go 1.13
+go 1.22.1
